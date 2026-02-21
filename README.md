@@ -1,0 +1,1 @@
+print(HeLLo,weather) # List cLimate change muLtipLe values in two areas weather=("kumasi",Accra") # print whoLe List print(weathers) # access item in List print(weather [1] ) print(weather [2] ) # change item in List print(weather[3]="heavy rain" print(areas) # add an item in List areas.append("heavy wind")
